@@ -2,7 +2,7 @@ import pygame
 import sys
 import cv2
 import numpy as np
-import time
+import time 
 import mediapipe as mp
 
 mp_pose = mp.solutions.pose
